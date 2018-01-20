@@ -1,0 +1,55 @@
+﻿<Window x:Class="PID_Controller.StartingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PID_Controller"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="UART Set up" Height="300" Width="300" Background="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Image Source=".\source\Image\1200x630bb.jpg" Grid.RowSpan="10" Grid.ColumnSpan="10" Opacity="0.3"/>
+        <TextBlock Grid.Column="1" Grid.ColumnSpan="8" Grid.RowSpan="3" 
+                   TextAlignment="Center" TextBlock.FontSize="20">
+            Please select a COM <LineBreak/>port and set baudrate<LineBreak/> for it
+        </TextBlock>
+        <Button Grid.Row="8" Grid.Column="3" Height="Auto" Grid.ColumnSpan="4">
+            <TextBlock Text="Connect"/>
+        </Button>
+        <ComboBox Grid.Column="2" Grid.ColumnSpan="6" Grid.Row="3" Height="44" Grid.RowSpan="2"
+                   Style="{StaticResource MaterialDesignFloatingHintComboBox}"
+                    materialDesign:HintAssist.Hint="COM Port" Margin="0,10,0,0"/>
+
+        <ComboBox Grid.Column="2" Grid.ColumnSpan="6" Grid.Row="5"
+                  materialDesign:HintAssist.Hint="Baudrate" TextBlock.TextAlignment="Right"
+                  Style="{StaticResource MaterialDesignFloatingHintComboBox}" Height="44" VerticalAlignment="Bottom" Grid.RowSpan="2">
+            <ComboBoxItem>9600</ComboBoxItem>
+        </ComboBox>
+
+
+    </Grid>
+</Window>

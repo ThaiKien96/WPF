@@ -1,0 +1,55 @@
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\PID_Controller.exe.config
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\PID_Controller.exe
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\PID_Controller.pdb
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\LiveCharts.dll
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\MaterialDesignColors.dll
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\LiveCharts.pdb
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\LiveCharts.xml
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\PID_Controller.csprojResolveAssemblyReference.cache
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\MainWindow.g.cs
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\StartingWindow.g.cs
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\App.g.cs
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\PID_Controller_MarkupCompile.cache
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\PID_Controller_MarkupCompile.lref
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\MainWindow.baml
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\StartingWindow.baml
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\PID_Controller.g.resources
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\PID_Controller.Properties.Resources.resources
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\PID_Controller.csproj.GenerateResource.Cache
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\PID_Controller.csproj.CoreCompileInputs.cache
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\PID_Controller.exe
+C:\Users\Thai Kien\Google Drive\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\PID_Controller.pdb
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\PID_Controller.exe.config
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\PID_Controller.exe
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\PID_Controller.pdb
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\LiveCharts.dll
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\MaterialDesignColors.dll
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\LiveCharts.pdb
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\LiveCharts.xml
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\PID_Controller.csprojResolveAssemblyReference.cache
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\MainWindow.g.cs
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\StartingWindow.g.cs
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\App.g.cs
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\PID_Controller_MarkupCompile.cache
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\PID_Controller_MarkupCompile.lref
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\MainWindow.baml
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\StartingWindow.baml
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\PID_Controller.g.resources
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\PID_Controller.Properties.Resources.resources
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\PID_Controller.csproj.GenerateResource.Cache
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\PID_Controller.csproj.CoreCompileInputs.cache
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\PID_Controller.exe
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\PID_Controller.pdb
+C:\Users\Thai Kien\Desktop\VisualStudioWorkspace\WPF\PID_Controller\PID_Controller\obj\Debug\App.baml
